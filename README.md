@@ -1,2 +1,8 @@
 # Physiological-Feature-Extraction-using-Thermal-Imaging
-This is a research project by Empathic Labs to investigate extraction if physiological features using thermal camera
+This is a project repo for a research project from the virtual internship program (VIP) by [Empathic Computing Lab](https://empathiccomputing.org) on a thermal camera study
+
+## Contributors
+Faraz Ahmed Khan
+Esen Kucuktutuncu
+Ryo Hajika
+Yun Suen Pai
